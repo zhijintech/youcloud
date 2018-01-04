@@ -1,0 +1,2 @@
+1.Complete demo system - End of Jan, 2018
+2.Collect feedback from customers and complete minimum deployable system. - Mid of March, 2018
